@@ -2,10 +2,10 @@
 
 ## Tip 1: Whenever you see power (or similar to x^n), think about:
 
-- Even/Odd exponent logic
-- Recursive or iterative squaring  
+-   Even/Odd exponent logic
+-   Recursive or iterative squaring  
 **Relevant Problems:**  
-- Leetcode 50
+-   Leetcode 50
 
 ---
 
